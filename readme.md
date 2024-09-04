@@ -11,7 +11,7 @@ These steps will guide you through the process of local installation and launch 
 
 #### 1. Clone the repository
 ```bash
-  git clone asd
+  git clone https://github.com/gidaszewski/SenvoAPI
 ```
 
 #### 2. Create a new file called .env inside the path /src/ and add the following vars
