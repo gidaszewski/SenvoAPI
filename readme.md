@@ -118,3 +118,8 @@ Testing: Automated testing with Pytest was implemented to ensure code quality an
 
 Monitoring: The use of a monitoring platform was implemented to monitor API requests, errors, performance and uptime
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
