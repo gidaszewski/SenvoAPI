@@ -1,7 +1,5 @@
 
-# Senvo coding challenge
-
-### senvoAPI
+# SenvoAPI
 
 senvo operates on shipment-related data from e-commerce and
 logistics sys-tems. This API stores and provides shipment invoice data.
